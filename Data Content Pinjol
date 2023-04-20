@@ -3,35 +3,44 @@
 
 		{
 			"id": 1,
-			"judul": "Beneath the Trump circus, American democracy faces up to a vital challenge",
-			"image": "https://images.theconversation.com/files/519435/original/file-20230404-24-j89447.jpg",
-			"content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak",
-			"link": "https://sites.google.com/view/jkbkjbkbkjb/home"
+			"judul": "Cara Melakukan Pinjaman Online",
+			"image": "https://www.ocbcnisp.com/asset/media/Feature/Article/image-stock/Pexels-Images/Financial/debt-3.jpg",
+			"content": "Tak sedikit orang yang memilih untuk mengajukan pinjaman online dalam mendapatkan modal usaha. Namun, maraknya penipuan pinjol membuat Anda harus lebih berhati-hati lagi. Agar lebih waspada, simak penjelasn tentang cara melakukan pinjaman online berikut ini.",
+			"link": "https://sites.google.com/view/pinjol1/home"
 		},
 		{
 			"id": 2,
-			"judul": "Amerika Tegaskan Dukungan Buat Israel di Konflik Palestina",
-			"image": "https://akcdn.detik.net.id/visual/2023/04/07/kehancuran-di-gaza-imbas-serangan-roket-israel_169.jpeg",
-			"content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak",
-			"link": "https://sites.google.com/view/jkbkjbkbkjb/home"
+			"judul": "Tips Mengajukan Pinjaman Online agar Cepat Cair",
+			"image": "https://www.julo.co.id/sites/default/files/Blog%20Images/RTG%20Ads%20October%20-%20Registrasi%20-%20Single%20-%20Final%20-%201200x628_7.png",
+			"content": "Sebagai pelamar, Anda juga perlu memperhatikan apakah pemasukan sesuai dengan syarat minimum. Pastikan untuk memeriksa persyaratan pendapatan minimum untuk yang perlu dilampirkan.",
+			"link": "https://sites.google.com/view/pinjaman-online-1/home"
 
 
 		},
 		{
 			"id": 3,
-			"judul": "AS Ikut Dibikin Repot karena Kelakuan Polisi Israel Serbu Al Aqsa",
-			"image": "https://akcdn.detik.net.id/visual/2015/01/08/882663ef-b241-4ac9-95cb-da46db5f4dcd_169.jpg",
-			"content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak",
-			"link": "https://sites.google.com/view/jkbkjbkbkjb/home"
+			"judul": "Memastikan Riwayat Kredit Baik",
+			"image": "https://danakoo.id/wp-content/uploads/2022/12/kta-kilat.jpg",
+			"content": "Semua lembaga keuangan dapat mengetahui riwayat kredit setiap orang melalui pemeriksaan BI. Semua pemohon dengan riwayat kredit baik atau buruk terdaftar di BI Checking.",
+			"link": "https://sites.google.com/view/pinjaman-online-2/home"
 
 
 
 		}, {
 			"id": 4,
-			"judul": "Bantah Semua Dakwaan, Bagaimana Kelanjutan Proses Hukum Trump",
-			"image": "https://akcdn.detik.net.id/visual/2023/04/05/mantan-presiden-as-donald-trump-berangkat-setelah-memberikan-sambutan-di-mar-a-lago-club-di-palm-beach-florida-as-pada-selasa-_169.jpeg",
-			"content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak",
-			"link": "https://sites.google.com/view/jkbkjbkbkjb/home"
+			"judul": "Menyiapkan Dokumen Asli yang Diminta",
+			"image": "https://www.clefhui.id/wp-content/uploads/2023/02/Aplikasi-Pinjaman-Online-Terbaik-Tanpa-KTP-Cepat-Cair.png.webp",
+			"content": "Persyaratan yang mudah dan proses yang cepat terkadang membuat beberapa orang menyepelekannya sehingga tidak mempersiapkan persyaratan pinjaman online dengan baik. Padahal ini merupakan salah satu cara pinjam online cepat cair.",
+			"link": "https://sites.google.com/view/pinjamanonline3/home"
+
+
+
+		},{
+			"id": 5,
+			"judul": "Mengajukan Pinjaman Online Sesuai Kemampuan Keuangan",
+			"image": "https://danakoo.id/wp-content/uploads/2022/12/pinjaman-online-langsung-cair-2023.jpg",
+			"content": "Jika Anda ingin mengambil pinjaman, pastikan jumlah nominal pinjaman tersebut masuk akal, yang mana nilai nominalnya tidak melebihi kemampuan Anda dalam mengembalikannya.",
+			"link": "https://sites.google.com/view/pinjamanonline4/home"
 
 
 
@@ -40,68 +49,77 @@
 	],
 	"foryou": 
 	[
+	{
+			"id": 1,
+			"judul": "Cara Melakukan Pinjaman Online",
+			"image": "https://www.ocbcnisp.com/asset/media/Feature/Article/image-stock/Pexels-Images/Financial/debt-3.jpg",
+			"content": "Tak sedikit orang yang memilih untuk mengajukan pinjaman online dalam mendapatkan modal usaha. Namun, maraknya penipuan pinjol membuat Anda harus lebih berhati-hati lagi. Agar lebih waspada, simak penjelasn tentang cara melakukan pinjaman online berikut ini.",
+			"link": "https://sites.google.com/view/pinjol1/home"
+		},
 		{
-		"id": 1,
-		"judul": "Bantah Semua Dakwaan, Bagaimana Kelanjutan Proses Hukum Trump",
-		"image": "https://akcdn.detik.net.id/visual/2023/04/05/mantan-presiden-as-donald-trump-berangkat-setelah-memberikan-sambutan-di-mar-a-lago-club-di-palm-beach-florida-as-pada-selasa-_169.jpeg",
-		"content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak",
-		"link": "https://sites.google.com/view/jkbkjbkbkjb/home"
+			"id": 2,
+			"judul": "Tips Mengajukan Pinjaman Online agar Cepat Cair",
+			"image": "https://www.julo.co.id/sites/default/files/Blog%20Images/RTG%20Ads%20October%20-%20Registrasi%20-%20Single%20-%20Final%20-%201200x628_7.png",
+			"content": "Sebagai pelamar, Anda juga perlu memperhatikan apakah pemasukan sesuai dengan syarat minimum. Pastikan untuk memeriksa persyaratan pendapatan minimum untuk yang perlu dilampirkan.",
+			"link": "https://sites.google.com/view/pinjaman-online-1/home"
 
 
-
-	},
-		{
-		"id": 2,
-		"judul": "Bantah Semua Dakwaan, Bagaimana Kelanjutan Proses Hukum Trump",
-		"image": "https://akcdn.detik.net.id/visual/2023/04/05/mantan-presiden-as-donald-trump-berangkat-setelah-memberikan-sambutan-di-mar-a-lago-club-di-palm-beach-florida-as-pada-selasa-_169.jpeg",
-		"content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak",
-		"link": "https://sites.google.com/view/jkbkjbkbkjb/home"
-
-
-
-	},
+		},
 		{
 			"id": 3,
-			"judul": "AS Ikut Dibikin Repot karena Kelakuan Polisi Israel Serbu Al Aqsa",
-			"image": "https://akcdn.detik.net.id/visual/2015/01/08/882663ef-b241-4ac9-95cb-da46db5f4dcd_169.jpg",
-			"content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak",
-			"link": "https://sites.google.com/view/jkbkjbkbkjb/home"
+			"judul": "Memastikan Riwayat Kredit Baik",
+			"image": "https://danakoo.id/wp-content/uploads/2022/12/kta-kilat.jpg",
+			"content": "Semua lembaga keuangan dapat mengetahui riwayat kredit setiap orang melalui pemeriksaan BI. Semua pemohon dengan riwayat kredit baik atau buruk terdaftar di BI Checking.",
+			"link": "https://sites.google.com/view/pinjaman-online-2/home"
+
+
+
+		}, {
+			"id": 4,
+			"judul": "Menyiapkan Dokumen Asli yang Diminta",
+			"image": "https://www.clefhui.id/wp-content/uploads/2023/02/Aplikasi-Pinjaman-Online-Terbaik-Tanpa-KTP-Cepat-Cair.png.webp",
+			"content": "Persyaratan yang mudah dan proses yang cepat terkadang membuat beberapa orang menyepelekannya sehingga tidak mempersiapkan persyaratan pinjaman online dengan baik. Padahal ini merupakan salah satu cara pinjam online cepat cair.",
+			"link": "https://sites.google.com/view/pinjamanonline3/home"
+
+
+
+		},{
+			"id": 5,
+			"judul": "Mengajukan Pinjaman Online Sesuai Kemampuan Keuangan",
+			"image": "https://danakoo.id/wp-content/uploads/2022/12/pinjaman-online-langsung-cair-2023.jpg",
+			"content": "Jika Anda ingin mengambil pinjaman, pastikan jumlah nominal pinjaman tersebut masuk akal, yang mana nilai nominalnya tidak melebihi kemampuan Anda dalam mengembalikannya.",
+			"link": "https://sites.google.com/view/pinjamanonline4/home"
+
+
+
+		},{
+			"id": 6,
+			"judul": "Tips Mengajukan Pinjaman Online agar Cepat Cair",
+			"image": "https://cicilan.id/wp-content/uploads/2022/04/Pinjaman-Online-Cepat-Cair-Tanpa-Ribet-Langsung-Cair.jpg",
+			"content": "Tips Mengajukan Pinjaman Online agar Cepat Cair Ada beberapa tips cara pinjam online agar cepat cair. Apa saja itu? Berikut masing-masing penjelasannya.",
+			"link": "https://sites.google.com/view/pinjamanonline5/home"
+
+
+
+		},{
+			"id": 6,
+			"judul": "Ada banyak layanan pinjaman uang online yang sangat mudah diakses",
+			"image": "https://www.adira.co.id/img/frontend/news/thumb_5carapinjamuangonlineyangtepatdanbijaksanajpg.jpg",
+			"content": "Ada banyak layanan pinjaman uang online yang sangat mudah diakses. Bahkan peminatnya sungguh tinggi di kalangan masyarakat Indonesia.",
+			"link": "https://sites.google.com/view/pinjaman-online-6/home"
 
 
 
 		}
+		
 ],
-	"trending": 
+	"trendingx": 
 	[
 		{
 		"id": 1,
 		"judul": "Mobile Legends: Bang Bang",
 		"image": "https://play-lh.googleusercontent.com/Qc3jxMEGWOTCeiR-PlqaPErtTUyqTBEI92pq-pKrFmLH5iXQa1EQ-8vbLWZLxe5N-tc=w1052-h592-rw",
 	        "link": "https://play.google.com/store/apps/details?id=com.mobile.legends"
-
-
-
-	},{
-		"id": 2,
-		"judul": "Video Bokeh Viral Full HD",
-		"image": "https://play-lh.googleusercontent.com/70hSapw-2Fn7CeWayyvlKgU83r-2oxjmZtfcbFVCWzFIh0cMdG9yoNDnrRzdNiGriA=w480-h960-rw",
-	        "link": "https://play.google.com/store/apps/details?id=com.abimandroid.videohd"
-
-
-
-	},{
-		"id": 3,
-		"judul": "Bokeh VPN Fast Max",
-		"image": "https://play-lh.googleusercontent.com/-zTcm1lPqsYL9boYUiP245ynOx-qgWWrgnR_YqW78d3UEFOi7a6tTVSt948_cMVWRjc=w480-h960-rw",
-	        "link": "https://play.google.com/store/apps/details?id=com.bokehvpn.vpnbledosdong"
-
-
-
-	},{
-		"id": 3,
-		"judul": "Focos: bokeh, blur image",
-		"image": "https://play-lh.googleusercontent.com/cJGErrUxpZtECpSXj-CW-4rGqnmXQMT5Y2erqzNkQRzGkTjPyboxa9H741DsgH4NQBI=w480-h960-rw",
-	        "link": "https://play.google.com/store/apps/details?id=com.judi.focos"
 
 
 
