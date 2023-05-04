@@ -2,7 +2,7 @@
  "Ads": 
 [
   {
-       "ContainApplication": "https://raw.githubusercontent.com/kabol12345/Database-Server-Content/main/ContenDanaRupiahPinjol",
+      
    
 	"keyword1": "Insurance",
 	"keyword2": "Car insurance",
@@ -103,7 +103,7 @@
 
 	"RandomAds": "0",
 	"button": "0",
-	"splase": "0",
+	"splase": "1",
 	"pencari": "video",
 
 	"adsbrutal": "0",
